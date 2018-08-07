@@ -6,7 +6,7 @@
 
 Run index.html in a browser
 
-Try it - [Fast Words Game](https://coderguydave.github.io/fast_words/)
+Try it - [Fast Words Game](https://codeguydave.github.io/fast_words/)
 
 ## App Info
 
