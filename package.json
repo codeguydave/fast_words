@@ -1,14 +1,14 @@
 {
-  "name": "wordbeater",
+  "name": "fastwords",
   "version": "1.0.0",
   "description": "Speed typing game written in vanilla JS",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
+  "author": "Codeguydave",
   "license": "MIT",
-  "homepage": "https://bradtraversy.github.io/wordbeater",
+  "homepage": "https://codeguydave.github.io/fast_words",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }

@@ -1,19 +1,18 @@
-# WordBeater
+# Fast Words
 
-> Simple speed typing app built with JavaScript
+> Speed typing app built with JavaScript
 
 ## Use
 
 Run index.html in a browser
 
-Try it - [WordBeater Game](https://bradtraversy.github.io/wordbeater)
+Try it - [Fast Words Game](https://coderguydave.github.io/fast_words)
 
 ## App Info
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Coderguydave
 
 ### Version
 
