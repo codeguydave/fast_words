@@ -4,11 +4,11 @@
   "description": "Speed typing game written in vanilla JS",
   "main": "index.js",
   "scripts": {
+    "homepage": "https://codeguydave.github.io/fast_words",
     "deploy": "gh-pages -d dist"
   },
   "author": "Codeguydave",
   "license": "MIT",
-  "homepage": "https://codeguydave.github.io/fast_words",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
